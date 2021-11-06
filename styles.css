@@ -1,0 +1,61 @@
+.menubar {
+  background-color: #89CFF0;
+  margin-top: 0;
+  margin-left: 0;
+  height: 50px;
+}
+
+.logo {
+  font-family: sans-serif;
+  margin-left: 0;
+  margin-bottom: 0;
+  font-size: 19px;
+  background-color: #89cff0;
+  border: none;
+  padding: 0%;
+}
+
+.homeicon {
+  margin-left: 1%;
+  height: 50px;
+  margin-left: 50px;
+  background-color: #89cff0;
+  border: 1px solid #000000ab;
+  transition-duration: 2s;
+}
+
+#GameArea {
+  border: 4px solid #000000;
+  height: 400px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Register {
+  border: 2px solid #000000;
+  border-radius: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 500px;
+  font-family: sans-serif;
+}
+
+#UserName {
+  margin-top: 25px;
+}
+
+.RegisterButton {
+  float: right;
+  margin-top: 15px;
+}
+
+.NewsButton {
+  height: 50px;
+  background-color: transparent;
+  border: 1px solid #00000087;
+  width: 60px;
+}
